@@ -6,7 +6,7 @@ The [folder](/COMSOL/planar_cell/)(/COMSOL/planar_cell/) includes COMSOL model o
 Main physics:
 * Gas transport from diffusion, electrochemical reaction, convection (<img src="https://latex.codecogs.com/svg.image?H_2,H_2O,O_2" /> ).
 * Heat of reaction and heat transfer between a lumped solid and gas phases.
-* Electrochemistry: Ohmic resistance, an RC element for electrode resistance and Nernstian chemical thermodynamical relationship.
+* Electrochemistry: Ohmic resistance, RC element for electrode resistance and Nernstian chemical thermodynamical relationship.
 * Frequency domain solution to the electrochemical impedance spectroscopy (EIS) response.
 
 Snapshots:
@@ -17,6 +17,14 @@ Snapshots:
 <p align="center">
 <img src="/images/planar_mole_frac.png" width="33%"><img src="/images/planar_EIS.png" width="33%"><img src="/images/planar_Bode.png" width="33%">
 </p>
+
+### Planar cell failure modes
+The [folder](/COMSOL/planar_cell_failure_modes/)(/COMSOL/planar_cell/) includes COMSOL model of delamination and gas crossover failure, detail description of the which can be found in this open access [journal](https://iopscience.iop.org/article/10.1149/1945-7111/ac59f4/meta).
+Main physics:
+* Gas transport from diffusion, electrochemical reaction, convection (<img src="https://latex.codecogs.com/svg.image?H_2,H_2O,O_2" /> ).
+* Heat of reaction and heat transfer between a lumped solid and gas phases.
+* Electrochemistry: Ohmic resistance, RC element for electrode resistance and Nernstian chemical thermodynamical relationship.
+* Frequency domain solution to the electrochemical impedance spectroscopy (EIS) response.
 
 ### Button cell
 The [folder](/COMSOL/button_cell/)(/COMSOL/button_cell/) includes COMSOL model of a button cell in a test setup.
