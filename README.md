@@ -19,7 +19,7 @@ Snapshots:
 </p>
 
 ### Planar cell failure modes
-The [folder](/COMSOL/planar_cell_failure_modes/)(/COMSOL/planar_cell/) includes COMSOL model of delamination and gas crossover failure, detail description of the which can be found in this open access [journal](https://iopscience.iop.org/article/10.1149/1945-7111/ac59f4/meta).
+The [folder](/COMSOL/planar_cell_failure_modes/)(/COMSOL/planar_cell_failure_modes/) includes COMSOL model of delamination and gas crossover failure, detail description of the which can be found in this open access [journal](https://iopscience.iop.org/article/10.1149/1945-7111/ac59f4/meta).
 Main physics:
 * Gas transport from diffusion, electrochemical reaction, convection (<img src="https://latex.codecogs.com/svg.image?H_2,H_2O,O_2" /> ).
 * Heat of reaction and heat transfer between a lumped solid and gas phases.
